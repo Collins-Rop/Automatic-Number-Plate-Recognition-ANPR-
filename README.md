@@ -1,6 +1,6 @@
 # Automatic-Number-Plate-Recognition
 
-This project includes all the necessary files required for Performing Number Plate Extraction and Digit Recognition . You can run the project locally yourself or acess the streamlit dashboard hosted at streamlit.cloud
+This project includes the necessary files required for Performing Number Plate Extraction and Digit Recognition . You can run the project locally yourself or acess the streamlit dashboard hosted at streamlit.cloud
 
 # How to use it
 Make sure you have conda or other virtual environment installed
