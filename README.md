@@ -21,6 +21,6 @@ Access the dashboard on streamlit cloud :
 ### Upload Images: 
 Use the upload button to select and upload images of vehicles with visible number plates.
 ### View Results: 
-The dashboard will display the extracted number plates and recognized digits.
+The dashboard will display the extracted number plates and details.
 ### Download Options: 
 You may have options to download the processed images or data for further analysis.
