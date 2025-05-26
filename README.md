@@ -24,3 +24,5 @@ Use the upload button to select and upload images of vehicles with visible numbe
 The dashboard will display the extracted number plates and details.
 ### Download Options: 
 You may have options to download the processed images or data for further analysis.
+### Contribution
+You can push your PRs after making the changes to contribute to this project.
